@@ -1,0 +1,14 @@
+P:\TesterAutomation-Calculate-DOS-Energy\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+P:\TesterAutomation-Calculate-DOS-Energy\Calc\Calc\obj\Debug\Calc.Form1.resources
+P:\TesterAutomation-Calculate-DOS-Energy\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+P:\TesterAutomation-Calculate-DOS-Energy\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
+P:\TesterAutomation-Calculate-DOS-Energy\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+P:\TesterAutomation-Calculate-DOS-Energy\Calc\Calc\bin\Debug\Calc.exe
+P:\TesterAutomation-Calculate-DOS-Energy\Calc\Calc\bin\Debug\Calc.pdb
+P:\TesterAutomation-Calculate-DOS-Energy\Calc\Calc\obj\Debug\Calc.exe
+P:\TesterAutomation-Calculate-DOS-Energy\Calc\Calc\obj\Debug\Calc.pdb
+P:\TesterAutomation-Calculate-DOS-Energy\Calc\Calc\bin\Debug\LumenWorks.Framework.IO.dll
+P:\TesterAutomation-Calculate-DOS-Energy\Calc\Calc\bin\Debug\LumenWorks.Framework.IO.pdb
+P:\TesterAutomation-Calculate-DOS-Energy\Calc\Calc\bin\Debug\LumenWorks.Framework.IO.xml
+P:\TesterAutomation-Calculate-DOS-Energy\Calc\Calc\bin\Debug\FileHelpers.dll
+P:\TesterAutomation-Calculate-DOS-Energy\Calc\Calc\bin\Debug\FileHelpers.xml
